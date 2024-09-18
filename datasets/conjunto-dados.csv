@@ -1,0 +1,409 @@
+﻿"Organização";"Nome";"Descrição";"Tags";"Quantidade Recursos";"Quantidade Reusos";"Quantidade Downloads";"Quantidade Seguidores"
+"Agência Nacional de Aviação Civil - ANAC";"Organizações de manutenção - Oficinas de Manutenção";"​O conjunto de dados “Oficinas de Manutenção” lista as oficinas de manutenção nacionais e estrangeiras certificadas segundo o RBAC 145, mostrando as informações para contato, os tipos de serviços autorizados e os produtos com os quais estão capacitadas para lidar.​";"ANAC,Manutenção,Oficinas";"2";"0";"60";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Operador aéreo - Demonstrações Contábeis de Empresas Brasileiras de Transporte Aéreo Público";"A divulgação, no site da ANAC, das demonstrações contábeis trimestrais e anuais das empresas brasileiras que exploram os serviços de transporte aéreo público regular e não regular, exceto na modalidade táxi-aéreo, conforme apresentadas à Agência, está estabelecida nas Resoluções ANAC no 342/2014 e no 454/2017.";"";"2";"0";"95";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Operador aeroportuário - Tarifas Aeroportuárias: Tetos Tarifários e Reajustes Tarifários";"Valores máximos a serem cobrados como remuneração aos serviços aeroportuários e reajustes anuais dos mesmos.​
+
+Visão Geral:
+
+As tarifas aeroportuárias são os valores pagos aos operadores de aeródromos para remuneração pela utilização das instalações, dos equipamentos e demais serviços disponibilizados pela infraestrutura aeroportuária. Atualmente as tarifas aeroportuárias domésticas e internacionais são: tarifa de embarque, de conexão, de pouso, de permanência, de armazenagem e de capatazia da carga importada e a ser exportada.
+
+A tarifa de embarque é a única a ser paga pelo passageiro e tem a finalidade de remunerar a prestação dos serviços, instalações e facilidades necessários aos procedimentos de embarque e desembarque dos passageiros e bagagens. As tarifas de conexão, pouso e permanência são devidas pelo proprietário de aeronave privada ou explorador da aeronave (como as empresas aéreas).
+
+A base de dados apresenta informações dos tetos tarifários dos aeroportos administrados pela Infraero ou por administradores privados de concessões federais, além dos reajustes anuais destes valores.
+
+Os aeroportos administrados pela Empresa Brasileira de Infraestrutura Aeroportuária (Infraero) são classificados em quatro categorias para fins de arrecadação tarifária. Os aeroportos da categoria 01 são aqueles que apresentam maior pontuação em relação à infraestrutura disponibilizada e, portanto, maior teto tarifário, enquanto a categoria 04 é a menor categoria tarifária. Os tetos das tarifas aeroportuárias são reajustados anualmente pela ANAC conforme os termos da Resolução no 350/2014, para os aeroportos da Infraero.
+
+Os tetos das tarifas aeroportuárias das concessões federais, por sua vez, constam dos respectivos contratos de concessão, assim como as regras de reajuste dos mesmos.
+
+Os tetos tarifários são reajustados levando em consideração a variação do Índice de Preços ao Consumidor – IPCA divulgado pelo IBGE bem como, quando aplicáveis, o Fator X, componente com objetivo de compartilhar com os consumidores as variações esperadas de produtividade, o Fator Q, que busca incentivar a qualidade de serviço, e o Fator M, que reverte parte das receitas não tarifárias para modicidade tarifária.
+
+As tarifas dos aeródromos delegados a municípios, estados e Distrito Federal por meio de convênio com a União passaram, a partir da vigência da Resolução no 392, de 6 de setembro de 2016, a ser definidas pelo poder público local, titular do convênio de delegação. Portanto, estes aeródromos não estão no escopo dessa base de dados.
+
+Os valores da base de dados não incluem os adicionais tributários incidentes sobre as tarifas aeroportuárias. Até 31/12/2016 deve ser adicionado o percentual referente ao ATAERO para encontrar o valor máximo que pode ser pago pelo usuário. A partir de 1o/01/2017 o valor do ATAERO passa a compor as tarifas aeroportuárias de todos os aeroportos. Às tarifas de embarque internacional deve ser acrescido o adicional de US$ 18,00 estabelecido pela Lei no 9.825/1999, e convertido anualmente em reais pela ANAC. ​
+";"tarifas aeroportuárias";"2";"0";"80";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Organizações de formação - Simuladores de Voo com Qualificação ANAC válida";"Um tripulante pode utilizar um FSTD para treinamento, exames ou obtenção de experiência recente. Para tanto, é requerido que o FSTD esteja qualificado ou validado pela ANAC, conforme preconizado pelo RBAC 61.
+
+Essa lista torna público à sociedade quais FSTD estão qualificados ou validados pela ANAC.​";"";"3";"0";"1651";"4"
+"Agência Nacional de Aviação Civil - ANAC";"Aeronaves - Registro Aeronáutico Brasileiro";"Os dados de aeronaves têm objetivo de alimentar informações sobre a evolução da frota aérea brasileira e sua composição.
+Esses dados arquivados são requeridos por:
+•	Instituições nacionais (órgãos censitários e de planejamento, entre outros) 
+•	Internacionais - como IRCA (Registro Internacional da Aviação Civil) - iniciativa apoiada pela ICAO de colher informações e partilhá-las entre os membros da ICAO 
+•	Pesquisas acadêmicas
+•	Particulares no interesse de prospectar possíveis oportunidades de mercado.
+";"RAB,Registro Aeronáutico Brasileiro,aeronaves";"5";"0";"300";"2"
+"Agência Nacional de Aviação Civil - ANAC";"Operador aeroportuário - Monitoramento de Slots";"O processo de coordenação e alocação de slots está disciplinado pela Resolução ANAC no 338, de 22 de julho de 2014. Por essa Resolução a ANAC é responsável por efetuar o monitoramento da utilização dos slots alocados, buscando uma melhor otimização do uso da infraestrutura aeroportuária.
+
+O monitoramento do uso dos slots alocados consiste no batimento entre os slots alocados e a sua respectiva operação aérea, ou seja, na verificação de conformidade entre o planejamento e a operação. Nesse aspecto, são avaliadas as operações aéreas realizadas sem prévia alocação do slot, as operações aéreas realizadas em desacordo com as características do slot alocado na base de slots vigentes, e as operações aéreas canceladas e slots cancelados.
+
+O resultado desse monitoramento é atualizado quinzenalmente no site da ANAC para que as empresas aéreas possam acompanhar a sua performance no uso dos slots e aplicar as medidas mitigadoras no sentido de melhoria de performance.​";"";"2";"0";"39";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Gestão Interna - Informações de Terceirizados";"Descrição:
+​Divulgação de informações do rol de terceirizados para atender a Lei de Diretrizes Orçamentárias anual (LDO) ​
+
+Visão geral:
+​
+
+Consolidação dos dados de prestadores de serviços dos contratos com mão-de-obra dedicada, a partir de informações prestadas pelos gestores e fiscais dos contratos.
+
+Em atendimento à LDO, as informações devem ser disponibilizadas quadrimestralmente no sítio eletrônico da Agencia.​";"";"2";"0";"28";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Pessoal da Aviação Civil - Clínicas e Médicos Credenciados";"O Cadastro de Clínicas e de médicos credenciados é a informação oficial sobre a rede credenciada para realizar exames de saúde periciais para emissão de Certificado Médico Aeronáutico (CMA) no Brasil.
+
+Tal credenciamento é regido pelo Regulamento Brasileiro de Aviação Civil no 67.
+
+Visão geral:
+​
+
+Informações sobre Exame de Saúde
+O exame de saúde pericial tem o objetivo de certificar a aptidão física e mental de tripulantes, considerando o exercício de cada função. A certificação médica busca limitar o risco à segurança do voo decorrente de problemas de saúde, tendo validade específica de acordo com a classe, função, idade e outras possíveis condições médicas.
+
+É imprescindível a leitura e assinatura do Termo de Responsabilidade – Formulário de Antecedentes Médicos antes da realização do exame.
+
+Quem são os candidatos ao exame de saúde?
+
+§ CMA de 1a classe: piloto de linha aérea, piloto comercial e piloto privado com habilitação IFR.
+
+§ CMA de 2a classe: piloto privado, comissário de voo, operador de equipamentos especiais, mecânico de voo e piloto de balão livre.
+
+§ CMA de 4a classe: piloto de aeronave leve e piloto de planador.
+
+§ CMA de 5a classe: piloto remoto de VANT
+
+O que devo fazer antes de agendar um exame?
+
+Para quem não tem Código ANAC: antes de comparecer ao exame no dia agendado, o candidato deve gerar um Código ANAC emitido automaticamente, mediante o fornecimento de dados pessoais no portal da ANAC. Sugere-se impressão da tela em que consta o número gerado. Acesse o sistema para gerar o seu Código ANAC.
+
+De posse do código e de um documento de identificação oficial com foto, válido em todo território nacional, o candidato poderá marcar o exame com o examinador.
+
+Para quem já tem um Código ANAC: basta apresentar-se com documento de identificação oficial com foto, válido em todo território nacional, observando a necessidade de agendamento anterior e atribuição do examinador (se autorizado a realizar 1a, 2a, 4a e/ou 5a classes). Não há necessidade de gerar outro código.
+
+Onde posso realizar os exames?
+
+Os Médicos credenciados podem realizar exames de saúde periciais de 2a, 4a e 5a classes. As Clínicas credenciadas podem realizar exames de todas as classes (1a, 2a, 4a e 5a classes).​";"";"2";"0";"49";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Fiscalização - Sessões de julgamento de processos em segunda instância";"​Publicação dos dados de julgamento dos Processos Administrativos Sancionadores – PAS em sede de segunda instância​.
+Compete à ASJIN receber, processar e julgar, em segunda instância administrativa, os recursos interpostos das decisões administrativas exaradas pelos setores de decisão de primeira instância em processos administrativos sancionadores provenientes de infrações e providências administrativas, estas constantes do Título IX da Lei no. 7.565, de 16 de dezembro de 1986. A ASJIN também recebe e processa recursos contra as suas próprias decisões, bem como os pedidos de Revisão ao processo administrativo sancionador de suas competências, encaminhando à Diretoria para análise e decisão, verificando, previamente os requisitos legais e regulamentares de admissibilidade.​";"";"2";"0";"23";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Regulamentação - Normas publicadas pela agência";"Relaciona os atos administrativos de natureza normativa exarados pela Agência Nacional de Aviação Civil ou sob sua competência regulatória.​
+
+Visão geral:
+​​
+
+A Lei no 11.182, de 27 de setembro de 2005, que criou a Agência Nacional de Aviação Civil - ANAC, arrola em seu art. 8o as atribuições a serem desempenhadas pela Agência, dentre elas, a regulação de serviços aéreos, de produtos e processos aeronáuticos e da formação e treinamento de pessoal especializado e demais atividades de aviação civil.
+
+Para o exercício dessas competências, a ANAC exara atos administrativos de natureza normativa, dotados das características de generalidade e abstração. Cabe destacar que, por força do disposto no art. 11, inciso V, da referida Lei, as normas da Agência são editadas pela sua Diretoria, órgão colegiado de deliberação máxima.
+
+Resta salientar que, anteriormente à criação da ANAC, a aviação civil era regulada por atos produzidos por órgãos vinculados ao Comando da Aeronáutica - COMAER, do Ministério da Defesa, cabendo à Agência, conforme estabelecido no art. 47 da sua Lei de criação, a manutenção, revisão ou substituição desses regulamentos por normas próprias.
+
+Nesse diapasão, o presente conjunto de dados arrola os principais atos normativos produzidos pela Agência, ou sob sua competência regulatória, sendo eles:
+
+Resolução: aprova normas regulamentares ou regimentais;
+
+Regulamento Brasileiro da Aviação Civil (RBAC): aprovado por meio de Resolução, reúne conjuntos de diretrizes e regras de execução;
+
+Condição Especial (CE/SC): aprovado por meio de Resolução, dispõe acerca de meio alternativo de cumprimento de requisito constante de RBAC;
+
+Regulamento Brasileiro de Homologação Aeronáutica (RBHA): aprovado previamente à criação da Agência, reúne regras, diretrizes e regras de execução;
+
+Instrução Suplementar (IS): aprovado por meio de Portaria das áreas técnicas e sem natureza normativa, esclarece, detalha e orienta a aplicação de requisitos constantes em RBAC;
+
+Instrução de Aviação Civil (IAC): aprovado previamente à criação da Agência e sem natureza normativa, orienta a aplicação de requisitos constantes em RBHA;
+
+Instrução Normativa: estabelece procedimentos relativos à execução de disposições legais ou regulamentares, com a finalidade de assegurar unidade de ação no âmbito da ANAC;​";"";"2";"0";"40";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Aeródromos - Lista de PZRs registrados";"Informação sobre o tipo de Plano de Zoneamento de Ruído registrado pela ANAC para um aeródromo ou heliponto inscrito no Cadastro de Aeródromos Civis.​
+
+Visão geral:
+​
+
+O Plano de Zoneamento de Ruído de Aeródromo – PZR é o documento que tem por objetivo representar geograficamente a área de impacto do ruído aeronáutico decorrente das operações nos aeródromos e, aliado ao ordenamento adequado das atividades situadas nessas áreas, ser o instrumento que possibilita preservar o desenvolvimento dos aeródromos em harmonia com as comunidades localizadas em seu entorno.
+
+O PZR é composto pelas curvas de ruído e pelas compatibilizações e incompatibilizações ao uso do solo estabelecidas para as áreas delimitadas por essas curvas. As curvas de ruído são linhas que, traçadas em um mapa, representam graficamente a variação do nível de ruído aeronáutico na área geográfica abrangida pelo PZR.​";"";"2";"0";"29";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Fiscalização - Lista de processos administrativos sancionadores";"​Lista de processos administrativos sancionadores com transito em julgado adm. referentes a concessão de aeroportos.​
+
+Visão geral:
+​
+
+Os processos administrativos sancionadores são originados da lavratura de autos de infração por descumprimento das cláusulas dos contratos de concessão da infraestrutura aeroportuária, em decorrência das atividades de fiscalização da SRA.
+
+Esse conjunto de dados lista os processos sancionadores finalizados em âmbito administrativo.​";"";"2";"0";"23";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Gestão Interna - Convênios e Congêneres";"Visão geral:
+​​​
+
+Visando dar pleno cumprimento à sua missão, a ANAC pode buscar parceiros através do estabelecimento de instrumentos que viabilizem a execução de ações de interesse recíproco em regime de mútua cooperação, podendo envolver ou não a transferência de recursos financeiros oriundos de dotações consignadas nos Orçamentos da União.
+
+FUNDAMENTAÇÃO:
+
+Lei no 9.790, de 23 de março de 1999 - dispõe sobre Organizações da Sociedade Civil de Interesse Público - OSCIP e disciplina o Termo de Parceria.
+
+Lei no 8.666, de 21 de junho de 1993 - lei de Licitações e Contratos.
+
+Decreto nº 10.426, de 16 de julho de 2020 - dispõe sobre a descentralização de créditos entre órgãos e entidades da administração pública federal integrantes dos Orçamentos Fiscal e da Seguridade Social da União, por meio da celebração de termo de execução descentralizada.
+Decreto no 3.100, de 30 de junho de 1999 - regulamenta a Lei no 9.790/1999.
+
+Decreto no 6.170, de 25 de julho de 2007 - dispõe sobre as normas relativas às transferências de recursos da União mediante convênios e contratos de repasse.
+
+Portaria Interministerial no 507/MP/MF/CGU, de 24 de novembro de 2011 - regula os convênios, os contratos de repasse e os termos de cooperação no âmbito da Administração Pública Federal.
+
+Portaria Conjunta no 08/MP/MF/CGU, de 7 de novembro de 2012 - aprova a minuta-padrão de Termo de Cooperação para Descentralização de Crédito.
+
+Instrução Normativa no 84/2015/ANAC, de 10 de março de 2015 - define as diretrizes para a descentralização de decisões relativas à celebração de convênios e instrumentos congêneres no âmbito da ANAC.
+
+LEI No 13.019, DE 31 DE JULHO DE 2014 - Estabelece o regime jurídico das parcerias entre a administração pública e as organizações da sociedade civil, em regime de mútua cooperação, para a consecução de finalidades de interesse público e recíproco, mediante a execução de atividades ou de projetos previamente estabelecidos em planos de trabalho inseridos em termos de colaboração, em termos de fomento ou em acordos de cooperação; define diretrizes para a política de fomento, de colaboração e de cooperação com organizações da sociedade civil; e altera as Leis nos 8.429, de 2 de junho de 1992, e 9.790, de 23 de março de 1999. ​";"";"2";"0";"30";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Gestão Interna - Manifestações de usuários";"Os relatórios mensais de atendimento contêm detalhes sobre manifestações recebidas pelo “Fale com a ANAC”, administrado pela GTGI/SAF. 
+O Sistema de Atendimento da ANAC: sistema que ordena o processo de atendimento de manifestação de usuários com base na Instrução Normativa 121. A atividade de atendimento compreende o recebimento, o processamento e resposta às manifestações registradas pelo usuário via telefone, presencial e eletrônico, tais como reclamações, denúncias, sugestões, elogios e demais pronunciamentos de usuários que tenham como objeto a prestação de serviços públicos e a conduta de agentes públicos na prestação e fiscalização de tais serviços.​";"";"2";"0";"46";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Gestão Interna - Pesquisa de Serviços";"A Pesquisa de Satisfação sobre os Serviços da ANAC visa mensurar o grau de satisfação dos usuários dos serviços prestados pela Agência a fim de identificar possibilidades de melhorias nos processos internos que resultam na prestação de serviços.​
+A Pesquisa é aplicada desde o ano de 2016, por meio de formulário eletrônico disponibilizado no sítio da ANAC na internet e encaminhado por e-mail aos usuários que tiveram serviços prestados pela Agência.
+
+O Relatório da Pesquisa é divulgado semestralmente, nos termos do art. 18, § 2o da Lei n° 11.182/2005 (Lei de Criação da ANAC), do art. 38 do Decreto n° 5.731/2006 (Regulamento da ANAC), e dos arts. 20 e 21 da Resolução n° 381/2016 (Regimento Interno da ANAC). Ressalte-se que o Relatório é um importante instrumento para viabilização das ações disciplinadas pela Lei n° 13.460/2017 (Código de Defesa do Usuário de Serviços Públicos).
+";"";"2";"0";"42";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Voos e operações aéreas - Dados do consumidor.Gov";"Os dados relativos às manifestações registradas na plataforma Consumidor.gov (www.consumidor.gov.br) contabilizam os atendimentos realizados pelas empresas aéreas em atenção às demandas dos passageiros, os quais são classificados por temas e subtemas definidos pela área técnica GCON/SAS/ANAC.​
+
+Visão geral:
+​
+
+Em dezembro de 2016, a ANAC aderiu à plataforma www.consumidor.gov.br, ferramenta que possibilita a resolução direta de conflitos entre o consumidor e as empresas, além de contribuir para construção de políticas públicas em consonância com as necessidades dos consumidores.
+
+O sistema permite monitorar em âmbito coletivo as reclamações e informações apresentadas pelos usuários, as respostas das empresas e consultar e importar os dados relativos aos atendimentos aos consumidores.
+
+A SENACON é a responsável pela gestão, disponibilização e manutenção do consumidor.gov.br, bem como pela articulação com demais órgãos e entidades do Sistema Nacional de Defesa do Consumidor que, por meio de cooperação técnica, apoiam e atuam na consecução dos objetivos do serviço.
+
+O Processo no 00058.501317/2016-79, que trata do termo de cooperação técnica entre a ANAC e a SENACON, determina, entre outras, as seguintes obrigações à Agência:
+
+a. monitorar e analisar periodicamente os registros realizados em âmbito da plataforma, focando na qualidade das informações produzidas;
+
+b. acompanhar a resolução das reclamações formuladas pelos consumidores, a partir do monitoramento coletivo dos atendimentos registrados;
+
+c. realizar a gestão dos dados e informações obtidos por meio da plataforma CONSUMIDOR.GOV.BR para que sejam empregados como subsídios de ações voltadas a garantia de efetividade da plataforma, bem como para políticas ao aprimoramento dos atendimentos dedicados aos consumidores pelas empresas participantes;
+
+No âmbito da ANAC, os dados do Consumidor.gov.br são organizados de acordo com temas e subtemas baseados na Resolução ANAC no 400/2016, possibilitando à agência reguladora traçar o perfil das demandas, com a estatística das principais reclamações no setor. A organização das informações por temáticas específicas, além de serem subsídios importantes para ações regulatórias da agência, permitem a identificação do perfil do consumidor que apresenta manifestações sobre os serviços regulados e das tendências do mercado.
+
+Os relatórios do Consumidor.gov.br apresentam dados referentes à performance das transportadoras na plataforma quanto à qualidade do atendimento prestado, tempo de atendimento e resolutividade dos conflitos.";"";"2";"0";"241";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Regulamentação - Agenda Regulatória";"A Agenda é um planejamento que reforça o modelo de transparência e participação social em constante desenvolvimento na Agência. É um documento que, durante sua vigência (atualmente bienal), indica formalmente os temas que demandarão uma atuação prioritária no processo de normatização da ANAC, considerando os impactos a serem gerados à sociedade.​
+
+Contempla o desenvolvimento de estudos e atividades normativas em 38 (trinta e oito) temas de atuação prioritária da ANAC definidos com a participação interna (servidores, executivos e Diretoria) e da sociedade, e possuem como marcos de acompanhamento de execução, por tema:- Estudos: engloba as fases de definição do problema, objetivos a serem alcançados, realização e conclusão de análise de impacto regulatório preliminar;
+
+- Elaboração da proposta: compreende a elaboração dos documentos necessários à proposta técnica e a criação e tramitação do respectivo processo administrativo até a deliberação e aprovação da Diretoria Colegiada sobre a realização de audiência pública, quando aplicável.
+
+- Audiência pública: compreende a realização da audiência pública e a análise das contribuições recebidas;
+
+- Deliberação Final: engloba a análise jurídica final pela Procuradoria Federal junto à ANAC, a deliberação e aprovação pela Diretoria Colegiada, culminando na publicação da norma relativa ao tema no Diário Oficial da União - DOU.​";"ANAC,regulamentação";"2";"0";"29";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Certificação e outorga - Demonstrações Contábeis de Concessões Aeroportuárias";"​Os Contratos de Concessão vigentes obrigam a publicação das Demonstrações Contábeis das companhias em conformidade com a legislação societária das companhias abertas.​";"";"2";"0";"17";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Organizações de formação - Centro de instrução AVSEC - Centros de Instrução Homologados";"O Centro de Instrução (CI) é uma organização que possui autorização emitida pela ANAC para fornecer treinamento de cursos AVSEC e conduzir a certificação de profissionais que desempenharão atividades de AVSEC.
+
+Em 16 de julho de 2015, a ANAC aprovou e publicou o RBAC no 110, através da Resolução no 361/2015. Este RBAC instituiu um novo Programa Nacional de Instrução em Segurança da Aviação Civil contra Atos de Interferência Ilícita (PNIAVSEC), que passou a vigorar a partir de 15 de setembro de 2015.
+
+As organizações que foram homologadas como centro de instrução AVSEC, sob a égide da antiga Resolução ANAC no 63/2008, permaneceram podendo atuar no mercado, oferecendo cursos AVSEC em observância à regulamentação da Res. no 63/2008, até 15 de março de 2017.
+
+Para mais detalhes sobre disposições transitórias, pode-se consultar o RBAC no 110.​";"";"3";"0";"22";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Fiscalização - Deliberações da Diretoria Colegiada";"​Relaciona os processos submetidos à apreciação da Diretoria, órgão deliberativo máximo da Agência, e seus respectivos resultados.​
+A Lei no 11.182, de 27 de setembro de 2005, que criou a Agência Nacional de Aviação Civil - ANAC, arrola as competências exclusivas da Diretoria em seu art. 11.
+
+Para o exercício de suas atividades, são realizadas Reuniões de Diretoria, em sessões presenciais e eletrônicas, na forma estabelecida pela Instrução Normativa no 33, de 12 de janeiro de 2010.
+
+Dessa forma, o presente conjunto reúne, inicialmente, os dados relativos aos processos apreciados pela Diretoria, a partir de agosto de 2016. O referido limite temporal refere-se à implementação do Sistema Eletrônico de Informações - SEI, dada a praticidade de reunião dos dados expostos.
+
+Cabe destacar que, num segundo momento, serão tabulados e inseridos os dados relativos aos anos anteriores, desde a criação da Agência.​";"";"2";"0";"22";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Certificação e outorga - Arrecadação de Outorgas de Concessões Aeroportuárias";"Valores efetivamente arrecadados referentes a Contribuições ao Sistema em contrapartida à exploração da infraestrutura aeroportuária concedida.
+
+Os contratos de concessão da infraestrutura aeroportuária preveem a obrigação de recolhimento de contribuições ao Fundo Nacional de Aviação Civil – FNAC em contrapartida ao direito de exploração da infraestrutura concedida.
+
+Os contratos atuais preveem pagamentos de Contribuições Fixas anuais, Contribuições Variáveis, calculadas de acordo com percentuais da receita bruta da Concessionária e, em alguns casos, Contribuições Mensais.";"ANAC,Certificação e Outorga";"2";"0";"32";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Pessoal da aviação civil - Licenças emitidas";"Os profissionais que desempenham funções operacionais na Aviação devem passar por processos de avaliação para a emissão de licenças, habilitações e certificados. Licença: o documento emitido pela ANAC que formaliza a certificação de uma pessoa para atuar em operações aéreas civis, a partir do cumprimento de requisitos de idade, grau de instrução, aptidão psicofísica, conhecimentos teóricos, instrução de voo, experiência e proficiência, verificados de acordo com as funções, limitações e prerrogativas pertinentes à referida licença; Habilitação: autorização associada a uma licença ou a um certificado, na qual são especificadas as qualificações e respectivas validades, condições especiais de operação e as respectivas atribuições e restrições relativas ao exercício das prerrogativas da licença ou certificado respectivos; Certificado: certificado médico que demonstra a aptidão psicofísica para cumprimento da operação de uma aeronave. Os dados demonstram a quantificação dos profissionais de operação, compreendendo as seguintes categorias: - Pilotos; - Despachantes operacionais de voo (DOV): executa o controle operacional do voo em responsabilidade compartilhada com o piloto (executa os procedimentos de despacho (preparação) de um voo); - Comissários; - Mecânicos de manutenção: atuam na manutenção da aeronave, em solo; - Mecânicos (engenheiros) de voo: compõem a tripulação, exercendo atividades operacionais, como operação de sistemas da aeronave.​";"ANAC,Licenças,Pessoal da aviação";"2";"0";"53";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Gestão Interna - Lista de TFAC";"A Taxa de Fiscalização da Aviação Civil – TFAC, foi instituída pela Lei de Criação da ANAC, para remunerar os serviços prestados e a outorga de exploração de infraestrutura aeroportuária. Lei 11.182/2005, Capítulo IV, artigos 29 e 29-A.​
+O Anexo III da Lei 11.182/2005 lista 357 situações (""fatos geradores"") em que é necessário o pagamento da TFAC, bem como seus valores. Dessas, cinco foram vetadas e outras nove foram posteriormente revogadas, permanecendo 348 ativas.
+
+Devem recolher a TFAC as empresas concessionárias, permissionárias e autorizatárias de prestação de serviços aéreos comerciais, os operadores de serviços aéreos privados, as exploradoras de infraestrutura aeroportuária, as agências de carga aérea, pessoas jurídicas que explorem atividades de fabricação, manutenção, reparo ou revisão de produtos aeronáuticos e demais pessoas físicas e jurídicas que realizem atividades fiscalizadas pela ANAC (art. 29, §2o da Lei da ANAC).
+
+A tabela com todos os valores individuais de todas as TFAC e suas respectivas descrições pode ser acessada por https://www.anac.gov.br/assuntos/servicos-de-referencia/gru/dadostfac-com-link-para-gru#tab-chart_1.
+
+A Lei 13.202/2015, art. 8o, inciso VIII, permite a atualização dos valores das TFAC por meio de Portaria Interministerial. A última atualização ocorreu pela Portaria Interministerial n.o 52, de 1o de fevereiro de 2017, publicada no Diário Oficial da União (DOU) de 2 de fevereiro de 2017, seção I, página 36, com vigência retroativa a 09/12/2015. (essa Portaria está disponível em http://portal.imprensanacional.gov.br/materia/-/asset_publisher/Kujrw0TZC2Mb/content/id/20363208/do1-2017-02-02-portaria-interministerial-n-52-de-1-de-fevereiro-de-2017-20363099)
+
+Antes da Portaria n.o52/2017, houve outra alteração por meio da Portaria Interministerial n.o 710, de 1o de setembro de 2015, publicada no DOU de 2 de setembro de 2015, seção I, página 32 (http://portal.imprensanacional.gov.br/materia/-/asset_publisher/Kujrw0TZC2Mb/content/id/32827494/do1-2015-09-02-portaria-interministerial-n-710-de-1-de-setembro-de-2015-32827486)​";"";"2";"0";"17";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Pessoal da aviação civil - Profissionais Credenciados em PCP/PCF/PCA";"Pessoal da aviação civil - Profissionais Credenciados em PCP/PCF/PCA";"Profissonais credenciados,aviação civil";"2";"0";"28";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Certificação e outorga - Indicadores de Qualidade de Serviços";"Dados dos indicadores de qualidade de serviço definidos no contrato de concessão​.
+Os dados referentes às aferições dos Indicadores de Qualidade de Serviço (IQS) dos aeroportos podem ser consultados pelo link https://www.anac.gov.br/assuntos/paginas-tematicas/concessoes . As informações estão dispostas na página de cada um dos aeroportos e estão segmentados por ano e por aeroporto concedido.
+
+Os Indicadores de Qualidade de Serviço têm por objetivo aferir a disponibilidade de equipamentos e instalações dos aeroportos (inclusive do lado ar – pós-embarque), os serviços diretos e a pesquisa de satisfação de passageiros. Os dados contemplam tempo de fila na inspeção de segurança, conforto térmico e acústico, limpeza e disponibilidade de banheiros, cordialidade dos funcionários do aeroporto, custo-benefício, tempo de atendimento ao PNAE, % de disponibilidade de equipamentos, dentre outros.
+
+A divulgação dos dados tem como objetivo dar mais transparência em relação a qualidade de serviço prestada nos aeroportos e sua forma de regulação, possibilitando o controle social acerca desses aspectos. Consultores de mercado, empresas especializadas, pesquisadores, estudantes, institutos de pesquisa e seus programas de pós-graduação e outros interessados também podem utilizar esses conjuntos de dados para analisar, avaliar e gerar informações e conhecimento acerca da qualidade de serviço prestada nos aeroportos.​";"";"2";"0";"50";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Gestão Interna - Informações sobre Contratos e Licitações";"Descrição:
+​Informações sobre licitação e contratos administrativos, termos aditivos, apostilamentos e sanções.​
+
+Visão geral:
+​
+
+As licitações e contratos administrativos possuem como principal embasamento legal a Lei no 8.666 de 1993, a qual regulamenta o art. 37, inciso XXI, da Constituição Federal de 1988. Esta Lei estabelece normas gerais sobre licitações e contratos administrativos pertinentes a obras, serviços, inclusive de publicidade, compras, alienações e locações no âmbito dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios. Subordinam-se a ela, além dos órgãos da administração direta, os fundos especiais, as autarquias, as fundações públicas, as empresas públicas, as sociedades de economia mista e demais entidades controladas direta ou indiretamente por qualquer um dos entes federativos.
+
+Ao estabelecer os princípios básicos das licitações, em seu art. 3o, aquele Estatuto prevê a publicidade como um de seus fundamentos. Além disso, o Plano de Dados Abertos atende à ordem legal exarada no art. 16 da supracitada lei, o qual dispõe deve-se dar publicidade, mensalmente, em órgão de divulgação oficial ou em quadro de avisos de amplo acesso público, à relação de todas as compras feitas pela Administração Direta ou Indireta, de maneira a clarificar a identificação do bem comprado, seu preço unitário, a quantidade adquirida, o nome do vendedor e o valor total da operação, podendo ser aglutinadas por itens as compras feitas com dispensa e inexigibilidade de licitação.
+
+O processo licitatório possui duas fases distintas: uma interna, que abarca o planejamento da contratação, e outra externa, a qual se inicia com a publicação do instrumento convocatório (edital) em meio oficial. Todos os atos que compõe a fase externa, os contratos que dela decorrem e os fatos e atos deles decorrentes são, por natureza, acessíveis ao público. Destarte, a disponibilização dessas informações vem a complementar o acervo documental já disponível ao público em relação ao tema, dos quais podemos citar: o sítio www.comprasgovernamentais.gov.br, o Sistema Único de Cadastro de Fornecedores (SICAF), o Portal da Transparência e o Cadastro de Nacional de Empresas Inidôneas e Suspensas.
+
+Nesta mesma seara, a Lei de Acesso à Informação (Lei no 12.527/2011) determina que os órgãos e entidades do poder público, observadas as normas e procedimentos específicos aplicáveis, assegurem a gestão transparente da informação, propiciando amplo acesso a ela e sua divulgação. Além disso, a norma expressa como direito do cidadão a obtenção de informação pertinente à administração do patrimônio público, utilização de recursos públicos, licitação, contratos administrativos (art. 7, VI).
+
+O Decreto no 7.724 de 16 de maio de 2012 regulamenta a Lei 12.527/2011 e reforça a natureza pública das informações relativas à fase externa da licitação e seus respectivos contratos, conforme a inteligência do seu artigo 7o, §3o, V, in verbis:
+
+Art. 7o É dever dos órgãos e entidades promover, independente de requerimento, a divulgação em seus sítios na Internet de informações de interesse coletivo ou geral por eles produzidas ou custodiadas, observado o disposto nos arts. 7o e 8o da Lei no 12.527, de 2011.
+
+§ 3o Deverão ser divulgadas, na seção específica de que trata o § 1o, informações sobre:
+
+V - licitações realizadas e em andamento, com editais, anexos e resultados, além dos contratos firmados e notas de empenho emitidas;
+
+Destarte, serão disponibilizadas ao público as informações custodiadas de forma segmentada em três áreas distintas tratadas pela Gerência Técnica de Licitações e Contratos da Superintendência de Administração e Finanças:
+
+Licitações
+Contratos
+Sanções​";"";"3";"0";"73";"1"
+"Agência Nacional de Aviação Civil - ANAC";"Organizações de Formação - Lista de Treinamentos de Tipo";"Indica os Centros de Treinamentos autorizados pela ANAC a ministrar treinamentos para concessão e revalidação de habilitações de tipo requeridas pelo RBAC 61.​
+Considerando a obrigatoriedade de treinamento em CTAC para aeronaves que requerem uma habilitação de tipo, estabelecido nas seções 61.213 e 61.215 do RBAC 61, a ANAC disponibiliza através deste canal uma lista atualizada das instituições e treinamentos aprovados pela GCOI/SPL.
+
+Os procedimentos aceitáveis para a realização de treinamentos de solo e de voo para concessão e revalidação de habilitações de tipo estão estabelecidos na IS 61-005(A), norma suplementar de caráter geral editada pela Superintendência de Padrões Operacionais, objetivando esclarecer, detalhar e orientar a aplicação de requisito previsto em RBAC ou RBHA.
+
+A lista disponibilizada através deste canal coincide com o item 4.3 da IS 61-005(A) cuja finalidade é fornecer aos usuários alternativas de instituições e treinamentos aprovados que atendem ao RBAC 61.
+
+As informações disponibilizadas refletem as autorizações de Centros de Treinamentos certificados em território nacional bem como os Centros de Treinamentos estrangeiros validados pela ANAC, de acordo com o estabelecido na IS 142-002(C). ​";"";"2";"0";"49";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Aeronaves - Produtos Aeronáuticos Certificados no Brasil";"O conjunto de dados “Fabricante - Produtos Aeronáuticos Certificados no Brasil” enumera os produtos aeronáuticos certificados segundo o RBAC 21, mostrando informações sobre as empresas detentoras dos certificados, bem como as especificações associadas a tais produtos.​
+Em cumprimento ao Art. 68 do Código Brasileiro de Aeronáutica (Lei 7.565, de 19/12/1986), a ANAC emite certificados de homologação de tipo de aeronave, motores, hélices e outros produtos aeronáuticos que satisfizerem as exigências e requisitos dos Regulamentos. A agência torna disponível ao público uma lista destes certificados em seu sítio na Internet, bem como as respectivas especificações e os produtos associados.
+
+O documento normativo RBAC-21 pode ser utilizado para compreensão mais abrangente dos termos utilizados nas descrições dos metadados. Tal documento pode ser obtido em https://www.anac.gov.br/assuntos/legislacao.​";"";"2";"0";"56";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Aeronaves - Empresas Brasileiras Certificadas para fabricação de Produtos Aeronáuticos";"O conjunto de dados “Fabricante - Empresas Brasileiras Certificadas para fabricação de Produtos Aeronáuticos” enumera as empresas certificadas segundo o RBAC 21 como organizações de produção de produtos aeronáuticos.​";"anac,aviação civil,produtos aeronáuticos";"3";"0";"73";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Aeronaves - Fabricante - peças aprovadas (peças para modificação)";"O conjunto de dados ""Fabricante - Peças Aprovadas"" lista organizações brasileiras e estrangeiras fabricantes de peças aprovadas para uso aeronáutico.
+
+Para organizações brasileiras, o escopo abrange:
+
+Peças para Modificação aprovadas segundo um CHST com Atestado de Produto Aeronáutico Aprovado (APAA);
+
+Peças para Reposição para instalação em aeronaves com Atestado de Produto Aeronáutico Aprovado (APAA);
+
+Produtos fabricados segundo uma Ordem Técnica Padrão (OTP), ou outras Normas com Atestado de Produto Aeronáutico Aprovado (APAA);
+
+Produtos fabricados segundo uma OTP com Marcação TSO (""Technical Standard Order"") Aprovada.
+
+Para organizações estrangeiras o escopo está restrito a produtos fabricados segundo uma ""Technical Standard Order"" (TSO) com Carta de Aprovação de Produto (CAP).​
+​O Atestado de Produto Aeronáutico Aprovado (APAA) é um documento que aprova a produção de peças de modificação ou de reposição em produtos aprovados por empresa certificada segundo o RBAC 21.​";"";"3";"0";"59";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Voos e operações aéreas - Slots Alocados";"O processo de coordenação e alocação de slots está disciplinado pela Resolução ANAC no 338, de 22 de julho de 2014. Por essa Resolução a ANAC é responsável por realizar a alocação da infraestrutura aeroportuária (slots) às empresas aéreas nos aeroportos declarados como coordenados. Os parâmetros de capacidade são configurados no sistema de forma que toda a alocação de slots seja realizada em conformidade com a capacidade aeroportuária disponível, sendo avaliados os componentes pista, pátio e terminal.
+
+A base de dados de slots possui atualização diária no site da ANAC, e representa os horários de chegada ou partida para o movimento de uma aeronave numa data específica em um aeroporto coordenado, sendo que, para efeitos de planejamento, considera-se o horário em que a aeronave chega ou sai do terminal, caracterizado pelo calço e descalço, respectivamente.
+
+O slot possui informações do número de voo, horário de chegada ou partida, aeroporto de origem ou destino, período de início e fim, frequência, equipamento, assento e tipo de serviço associado.​";"";"3";"0";"83";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Aeronaves - Drones cadastrados";"Contém as aeronaves não tripuladas cadastradas em cumprimento ao parágrafo E94.301(b) do RBAC-E No 94.​
+Dados extraídos do SISANT – Sistema da Aeronave Não Tripulada, onde são cadastradas aeronaves não tripuladas, de uso exclusivo:
+
+Recreativo; ou
+Não recreativo, limitado a 25kg de peso máximo de decolagem, que não voará além da linha de visada visual (BVLOS) ou acima de 400 pés ou 120 metros acima do nível do solo (AGL);
+O cadastrante deve:
+ter mais de 18 anos;
+declarar que as informações prestadas são verídicas e de estar ciente de que estarei sujeito às penas da legislação pertinente caso tenha incluído informações falsas;
+Estar ciente de que é sua responsabilidade a segurança da senha de acesso ao SISANT;
+
+É responsabilidade do operador:
+tomar as providências necessárias para a operação segura da aeronave, assim como conhecer e cumprir o RBAC-E no 94, demais instruções suplementares ou normativos publicados pela ANAC, assim como os regulamentos do DECEA, da Anatel, e de outras autoridades competentes
+É responsabilidade do cadastrante:
+
+guarda da aeronave, pelo seu uso, podendo ser responsabilizado administrativa, civil e/ou penalmente pelas infrações ou eventuais danos causados pela aeronave cadastrada.
+Quando o cadastrante não for mais o responsável pela aeronave, deve excluir o cadastro, assim como reter a documentação que comprove a transferência da responsabilidade pela operação (se for o caso), até que um novo cadastro seja realizado em nome de outra pessoa, que passará então a ser a nova responsável pela aeronave.
+Fica proibida a operação da aeronave não tripulada quando o cadastro estiver vencido ou inativado.
+
+O cadastrante declara no momento do cadastro, que está ciente que as certidões de cadastro emitidas pelo SISANT devem ser portadas juntamente com a aeronave e apresentadas para as autoridades competentes, caso solicitado. É admitido o porte em formato digital (pdf).​";"drones";"3";"0";"963";"5"
+"Agência Nacional de Aviação Civil - ANAC";"Gestão Interna - Receita líquida";"Arrecadação orçamentária líquida de receitas durante o exercício financeiro.​
+
+Visão geral:
+Consiste na arrecadação líquida por fonte de recursos. Ou seja, qual a receita arrecadada líquida de restituições, desvinculações de receita ou outras devoluções, que cabe à Agência Nacional de Aviação Civil.​";"";"2";"0";"31";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Fiscalização - Número de Operações de Fiscalização";"Lista de dados de fiscalização que apresenta o volume de fiscalizações realizadas pelas áreas finalísticas (UDVDs) da Agência Nacional de Aviação Civil (ANAC) separadas por mês e ano. ";"ANAC,Fiscalização";"2";"0";"49";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Gestão Interna - Informações sobre viagens realizadas - PCDP";"Contém dados de concessão de diárias, decorrentes de deslocamento a serviço, por meio de transportes aéreos, da localidade onde o servidor tem exercício para outro ponto do território nacional ou para o exterior.";"";"2";"0";"34";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Certificação e Outorga - Inventário de Bens dos Aeroportos Concedidos";"Informações das relações de bens da concessão aeroportuária informados à ANAC.";"ANAC,Aeroportos,Concessão";"2";"0";"34";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Certificação e outorga - Dados Gerais das Concessões de Aeroportos";"​Lista de concessões de aeroportos vigentes ou encerrados e dados gerais.
+
+Neste conjunto de dados apresentamos as principais informações das concessões de infraestrutura aeroportuária vigentes ou encerrados, especialmente quanto às informações das concessionárias e principais marcos temporais dispostos nos contratos de concessão.​";"ANAC,Aeroportos,Concessão";"2";"0";"62";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Voos e operações aéreas - Dados Estatísticos do Transporte Aéreo";"​Base de Dados Estatísticos do Transporte Aéreo​.";"transporte aéreo";"2";"0";"335";"1"
+"Agência Nacional de Aviação Civil - ANAC";"Voos e operações aéreas - Registro de Serviços Aéreos";"​Informações sobre o registro de operações planejadas​.
+​A Resolução ANAC no. 440/2017, regulamentada pela Portaria 642/SAS, define o processo de registro dos serviços de transporte aéreo. Após prévio acordo do operador aéreo com os operadores aeroportuários envolvidos e com os provedores de serviços de navegação aérea, acerca do uso da infraestrutura aeroportuária e aeronáutica exigidas, os operadores aéreos efetuam o cadastro das etapas de voos no Sistema de Registro de Operações – SIROS em padrão de horário em Universal Time Coordinated UTC.​";"ANAC,Serviços Aéreos";"2";"0";"148";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Indicadores PEL – Processos de Licenças/Habilitação";"Indicadores PEL – Processos de Licenças/Habilitação";"ANAC,Habilitação,Indicadores,Licenças,PEL";"2";"0";"7";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Operador Aeroportuário - Dados de Movimentação Aeroportuária";"Dados de movimentação de passageiros, aeronaves, cargas e correio dos aeroportos sob regime de concessão pública federal e dos aeroportos de movimentação relevante operados pela Infraero.
+
+Os dados se apresentam como enviados pelos administradores de aeroportos, e não contém correções e interpolações adotadas para cálculos dos indicadores descritos em contrato. Os dados podem ser atualizados por seus responsáveis quando os mesmos julguem oportuno.";"AEROPORTO,ANAC";"2";"0";"375";"1"
+"Agência Nacional de Aviação Civil - ANAC";"Certificação e outorga - Dados Gerais das Autorizações de Aeroportos";"Lista de termos de autorização de exploração de aeródromo firmados pela ANAC.
+​​Neste conjunto de dados apresentamos as principais informações dos termos de autorização para exploração de aeródromos civis públicos firmados pela ANAC nos termos do Decreto 7871/2012.";"ANAC,Aeroportos,Autorizações";"2";"0";"59";"1"
+"Agência Nacional de Aviação Civil - ANAC";"Voos e operações aéreas - Tarifas Aéreas Domésticas";"<p>Os dados de tarifas aéreas têm o objetivo de propiciar o acompanhamento das tarifas aéreas efetivamente vendidas ao público adulto em geral para viagens e de subsidiar a realização de estudos sobre o transporte aéreo.</p>
+<p>A sua primeira divulgação ocorreu em outubro de 2009, sob o nome de Relatório de Yield Tarifa, com dados do período de janeiro de 2002 a setembro de 2009.</p>
+<p>Estão disponíveis também os valores com detalhamento por pares de Região e também por Unidade da Federação (UF) do país, bem como a base dos microdados registrados pelas empresas aéreas na ANAC.</p>
+";"Tarifas aéreas domésticas,Tarifas aéreas internacionais";"2";"0";"1915";"5"
+"Agência Nacional de Aviação Civil - ANAC";"Aeródromos Públicos - Pátios de Estacionamento";"​Dados referentes aos pátios de estacionamento de aeronaves em aeródromos públicos.​";"Aeronaves,Aeroporto,Aeródromos";"0";"0";"214";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Aeródromos Públicos - Pistas de Pouso e Decolagem";"​Dados referentes às pistas de pouso e decolagem em aeródromos públicos.​";"Aeronaves,Aeroporto,Aeródromos";"3";"0";"0";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Operador aéreo - Empresas Aéreas Nacionais";"​Informações do Cadastro de empresas aéreas nacionais aptas a operar no Brasil.";"empresas aéreas,operador aéreo";"2";"0";"0";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Aeródromos - Lista de aeródromos privados [Descontinuado]";"[Descontinuado] Substituído pela Lista de Aeródromos Privados V2";"ANAC,Aeródromos";"2";"0";"21";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Aeródromos Públicos - Características Gerais";"Dados referentes às características gerais de aeródromos públicos.​";"ANAC,Aeródromos";"0";"0";"0";"1"
+"Agência Nacional de Aviação Civil - ANAC";"Aeródromos Públicos - Pistas de Táxi";"Dados referentes às pistas de táxi em aeródromos públicos.​";"ANAC,Aeródromos";"0";"0";"0";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Aeródromos - Lista de Aeródromos Privados V2";"Dados cadastrais de aeródromos privados, que são aqueles aeródromos abertos ao tráfego aéreo de uso privativo.
+
+O Cadastro de Aeródromos é a informação oficial sobre a infraestrutura de aeródromos civis públicos e privados do Brasil.
+
+O cadastro de aeródromos civis é mantido pela ANAC para inscrição dos aeródromos, instalações e equipamentos de auxílio à navegação aérea para atender à aviação civil.
+
+De acordo com o art. 30 do Código Brasileiro de Aeronáutica (Lei no 7.565, de 19 de dezembro de 1986), nenhum aeródromo civil poderá ser utilizado sem estar devidamente cadastrado.
+
+Algumas definições importantes:
+
+Aeródromo é toda área destinada a pouso, decolagem e movimentação de aeronaves. Os aeródromos podem sem classificados como públicos e privados.
+
+Helipontos são os aeródromos destinados exclusivamente a helicópteros.
+
+Heliportos são os helipontos públicos dotados de instalações e facilidades para apoio de operações a helicópteros e de embarque e desembarque de pessoas e cargas.
+
+Helideque: é uma estrutura construída para pousos e decolagens de helicópteros, instalada a bordo de plataformas marítimas ou em embarcações.​​";"ANAC,aeródromo";"2";"0";"120";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Aeródromos - Lista de aeródromos públicos [Descontinuado]";"[Descontinuado] Substituído pela Lista de Aeródromos Públicos V2";"Aeródromos";"2";"0";"19";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Aeródromos - Lista de Aeródromos Públicos V2";"Dados cadastrais de aeródromos privados, que são aqueles aeródromos abertos ao tráfego aéreo de uso privativo.​
+
+O Cadastro de Aeródromos é a informação oficial sobre a infraestrutura de aeródromos civis públicos e privados do Brasil.
+
+O cadastro de aeródromos civis é mantido pela ANAC para inscrição dos aeródromos, instalações e equipamentos de auxílio à navegação aérea para atender à aviação civil.
+
+De acordo com o art. 30 do Código Brasileiro de Aeronáutica (Lei no 7.565, de 19 de dezembro de 1986), nenhum aeródromo civil poderá ser utilizado sem estar devidamente cadastrado.
+
+Algumas definições importantes:
+
+Aeródromo é toda área destinada a pouso, decolagem e movimentação de aeronaves. Os aeródromos podem sem classificados como públicos e privados.
+
+Helipontos são os aeródromos destinados exclusivamente a helicópteros.
+
+Heliportos são os helipontos públicos dotados de instalações e facilidades para apoio de operações a helicópteros e de embarque e desembarque de pessoas e cargas.
+
+Helideque: é uma estrutura construída para pousos e decolagens de helicópteros, instalada a bordo de plataformas marítimas ou em embarcações.​​";"ANAC,Aeródromos";"2";"0";"434";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Voos e operações aéreas - Voo Regular Ativo (VRA)";"​O Voo Regular Ativo – VRA é uma base de dados composta por informações de voos de empresas de transporte aéreo regular que apresenta alterações de voos (atrasos, antecipações e cancelamentos), horários em que os voos ocorreram e as justificativas apresentadas pelas empresas aéreas para tais alterações. Por meio desta base de dados, pode ser obtida os índices de pontualidade, regularidade e de desempenho operacional além dos percentuais de atrasos e cancelamentos. O mês publicado se refere às etapas cujas decolagens eram previstas para o mês em questão ou cujas decolagens, em caso de etapa não prevista, foram realizadas no mês em questão​.";"operação aérea,voo,índice de pontualidade";"2";"0";"362";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Empresas Aéreas Estrangeiras";"​Informações do Cadastro de empresas aéreas nacionais aptas a operar no Brasil.";"empresas aéreas,operador aéreo";"2";"0";"43";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Processos Administrativos Relacionados a Aeronaves";"Informações sobre os Processos administrativos relacionados a aeronaves.";"Aeronaves";"2";"0";"30";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Registro Aeronáutico Brasileiro – Histórico";"O Registro Aeronáutico Brasileiro – RAB contém os dados técnicos, de uso e de aeronavegabilidade de aeronaves e têm por objetivo alimentar informações sobre a evolução da frota aérea brasileira e sua composição. Este conjunto de dados apresenta os dados históricos do RAB.";"ANAC,Aeronaves";"2";"0";"147";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Aeródromos Públicos Excluídos";"Dados referentes à exclusão cadastral de aeródromos públicos.";"Aeroporto,Aeródromos";"2";"0";"23";"2"
+"Agência Nacional de Aviação Civil - ANAC";"Processos Administrativos Cadastrados";"Esse conjunto de dados fornece as informações sobre os processos administrativos cadastrados, incluindo o nível de restrição.";"Processos Administrativos";"2";"0";"26";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Aeródromos Públicos - Posições de Estacionamento";"Dados referentes às posições de estacionamento em aeródromos públicos.​";"ANAC,Aeródromos";"2";"0";"11";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Operador aéreo - Empresas aéreas";"Informações do Cadastro de empresas aéreas aptas a operar no Brasil.​";"empresas aéreas,operador aéreo";"2";"0";"319";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Organizações de Formação - Escolas de Aviação Civil";"Descrição:
+Informações a respeito de Escolas e Aeroclubes em funcionamento, seus cursos homologados e seus examinadores credenciados.​
+
+Visão geral:
+​
+
+As Escolas e Aeroclubes são autorizados pelo Regulamento Brasileiro de Homologação Aeronáutica – RBHA 141 e RBHA 140 ou regulamento que venha a substituí-los.
+Os cursos homologados, suas validades e os examinadores credenciados vinculados às entidades são determinados pelos mesmos normativos.
+
+Os dados aqui abertos demonstram quais as Escolas/Aeroclubes estão em funcionamento, quais cursos estão homologados, quais as validades dos cursos e quais são os examinadores credenciados vinculados.​";"Ensino Profissionalizante,aviação,aviação civil";"2";"0";"49";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Voos e operações aéreas - Percentuais de atrasos e cancelamentos";"Em atendimento à Resolução ANAC no 218, de 28 de fevereiro de 2012, os percentuais de atrasos e cancelamentos de voos regulares, domésticos e internacionais de passageiros no Brasil devem ser apresentados pelas empresas aéreas quando ofertam os bilhetes.
+
+Os percentuais são divulgados de acordo com modelos estabelecidos por meio da Portaria ANAC no 1.096/SRE, de 1o de junho de 2012.";"cancelamento de voos,voos";"2";"0";"270";"1"
+"Agência Nacional de Aviação Civil - ANAC";"Ocorrências Aeronáuticas";"Contém dados das ocorrências aeronáuticas enviadas pela Força Aérea Brasileira por meio do CENIPA para a ANAC acrescido de informações enriquecidas pela ANAC.";"ANAC,Aviação Civil,Segurança,aviação";"2";"0";"1951";"4"
+"Agência Nacional de Aviação Civil - ANAC";"Recomendações de Segurança Aeronáutica";"Contém dados das ocorrências e respectivas recomendações de segurança enviadas pela Força Aérea Brasileira por meio do CENIPA para a ANAC após investigação. Também contém dados dos encaminhamentos internos providenciados pela ANAC e prazos de realização entre outras informações.";"Aviação Civil,Segurança,Transportes";"2";"0";"76";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Programa de Segurança Aeroportuária - PSA";"Conjunto de dados com informações dos PSAs vigentes de cada aeródromo e informações das especificações do aeródromo.";"Aeródromos";"2";"0";"6";"0"
+"Agência Nacional de Aviação Civil - ANAC";"TFAC Voo Simples";"A Taxa de Fiscalização da Aviação Civil – TFAC, foi instituída pela Lei de Criação da ANAC, para remunerar os serviços prestados e a outorga de exploração de infraestrutura aeroportuária. Lei 11.182/2005, Capítulo IV, artigos 29 e 29-A.";"Taxas,Taxas de Fiscalização";"2";"0";"4";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Diretrizes de Aeronavegabilidade";"Conjunto de dados das Diretrizes de Aeronavegabilidade, contendo número de identificação, modelos aplicáveis e data de efetividade.";"Aeronave";"2";"0";"4";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Seguros dos Contratos das Concessões de Aeroportos";"Informações sobre os seguros obrigatórios estabelecidos nos contratos de concessão de aeroportos.";"Aeroportos";"2";"0";"6";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Projetos de Aprovação de Grandes Modificações e de Dados Técnicos para Grandes Alterações em Produtos Aeronáuticos";"Informações acerca de Projetos de Aprovação de Grandes Modificações por CST e de Dados Técnicos para Grandes Alterações em Produtos Aeronáuticos (CST e Segvoo 001).";"Aeronaves,Certificação,Produtos aeronáuticos";"2";"0";"0";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Horas Voadas de Aeronave";"Horas voadas por modelo de aeronaves registradas no Brasil.
+
+As horas de voo são computadas a partir de diferentes sistemas da ANAC. Um deles é o CVA, que faz o controle e registro das anotações da execução da Verificação de Aeronavegabilidade e emissão do Certificado de Verificação de Aeronavegabilidade (CVA). Neste caso, o total de horas voadas é registrado no sistema de forma anual. Para transformação dessa medida para periodicidade mensal, diversas técnicas são empregadas para chegar a uma aproximação do total de horas voadas por mês.
+
+O CVA é realizado, para a maioria das aeronaves, a cada um ano. Sendo assim, para os meses nos quais as aeronaves ainda não realizaram o próximo CVA, as horas são estimadas a partir da média mensal de aeronaves do mesmo tipo de operação. Além disso, o tipo de operação de uma determinada aeronave é definido a partir da sua categoria de registro, podendo uma mesma aeronave ter mais de um tipo de operação. Neste caso, as horas de voo são divididas igualmente.
+
+Para fins de aproximação, são consideradas horas voadas em atividades offshore se o modelo de aeronave e operador seguem determinadas regras conforme cadastro no RAB. Sendo assim, podem não refletir com precisão total as horas voadas.
+
+Somente aeronaves que possuem obrigatoriedade de realização de CVA são contempladas neste conjunto de dados. Adicionalmente, aeronaves estrangeiras que realizam voos sob regras do RBAC 129 também são contempladas.
+
+Os dados estão sujeitos à atualização e correção a qualquer tempo.";"ANAC,Aeródromos";"2";"0";"54";"1"
+"Agência Nacional de Aviação Civil - ANAC";"Organização de Produção";"Dados referentes a certificação e vigilância continuada de fabricantes de produtos e artigos aeronáuticos e de fabricantes de embalagens para transporte de artigos perigosos.";"Aeronaves,Empresas";"2";"0";"3";"0"
+"Agência Nacional de Aviação Civil - ANAC";"Pessoal da Aviação Civil - Quantidade de Certificados Médicos Aeronáuticos";"Certificado Médico Aeronáutico (CMA) é o documento emitido por um examinador ou pela ANAC, após exames de saúde periciais realizados em candidatos, certificando as suas aptidões psicofísicas, de acordo com o Regulamento Brasileiro de Aviação Civil no 67, para exercer funções relativas a aeronaves.
+
+O CMA é emitido online. A nova Carteira de Habilitação Técnica (CHT) passa a conter informações sobre a Classe, grupo sanguíneo e fator Rh. Os tripulantes da aviação civil podem comprovar a certificação médica acessando o Portal da ANAC, no link ""Consultas de licenças e habilitações"", mediante CPF e CANAC​.";"Dados Estratégicos,aviação civil";"2";"0";"38";"0"
