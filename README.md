@@ -2,7 +2,7 @@
 # Docente: Prof. Mentor Cloves Rocha
 
 # Discentes:
-...
+Cleiton Douglas
 ...
 
 # Sugestão de Hackaton:
